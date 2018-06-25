@@ -1,0 +1,10 @@
+const config = {
+    mysqlHost: 'xxxxxx'
+    mysqlDB: 'xxxx',
+    mysqlPort: 3306,
+    mysqlUser: 'xxxx',
+    mysqlPassword: 'xxxxx',
+    appPort: xx
+}
+
+module.exports = config;

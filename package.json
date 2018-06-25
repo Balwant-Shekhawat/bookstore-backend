@@ -1,0 +1,25 @@
+{
+  "name": "bookstore-backend",
+  "version": "1.0.0",
+  "description": "Rest API's for Book Store",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "keywords": [
+    "Books",
+    "REST",
+    "API"
+  ],
+  "author": "Balwant Singh",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "1.18.3",
+    "express": "4.16.3",
+    "express-validator": "5.2.0",
+    "morgan": "1.9.0",
+    "mysql2": "1.5.3",
+    "nodemon": "1.17.5"
+  }
+}
